@@ -3,6 +3,6 @@ provider "aws" {
   
 }
 resource "aws_iam_user" "querty" {
-    name = gfrhyrdkioutpoljyhntbgfsv
+    name = "gfrhyrdkioutpoljyhntbgfsv"
   
 }
